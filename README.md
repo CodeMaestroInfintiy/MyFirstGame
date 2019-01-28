@@ -1,2 +1,2 @@
-# MyFirstGame
-My first ever game on git hub.
+# My First Ever Project
+This is my first ever project that I have made public on github.
